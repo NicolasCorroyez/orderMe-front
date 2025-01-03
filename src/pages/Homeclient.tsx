@@ -64,7 +64,6 @@ const HomeClient = () => {
           </div>
           <div className="h-0.5 bg-white"></div>
           <div className="text-white mt-15 my-6 w-2/3 font-rammetto text-7xl">
-            <div>Commandez</div>
             <div className="mt-4">
               les huîtres de <span className="text-yellow-300">Tom</span>
             </div>
