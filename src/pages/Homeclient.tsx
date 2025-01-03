@@ -70,7 +70,7 @@ const HomeClient = () => {
             </div>
           </div>
           <div className="text-white w-full p-4">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit.
+            Lorem ipsum dolor sit amet consectetur heyadipisicing elit.
             Necessitatibus cumque et impedit modi cum, consequatur iste nemo
             omnis eum dicta, magni quibusdam blanditiis. Illo sunt consequuntur
             quaerat ut, libero eius tenetur aspernatur laborum nemo, tempora,
