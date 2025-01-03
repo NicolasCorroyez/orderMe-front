@@ -74,7 +74,7 @@ const HomeClient = () => {
             Necessitatibus cumque et impedit modi cum, consequatur iste nemo
             omnis eum dicta, magni quibusdam blanditiis. Illo sunt consequuntur
             quaerat ut, libero eius tenetur aspernatur laborum nemo, tempora,
-            maxime autem iusto delectus veniam! Corrupti pariatur odit
+            maxime autem iusto delectus veniam! Corrupti pariatur odit i
             consequuntur doloremque numquam assumenda? Consectetur, non porro.
           </div>
           <div className="h-0.5 bg-white"></div>
